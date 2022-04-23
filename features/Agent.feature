@@ -4,7 +4,6 @@ Feature: Agent
     """ 
     This is the simplest possible agent.
     """
-
     Given a nonempty set of promises
     # one or more instances of promise agents
     When these promises are used to create an agent
