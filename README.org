@@ -4,7 +4,7 @@
 
 
 * Introduction
-Unrival is a protocol for directing collective intelligence towards the accomplishing of arbitrary goals.
+Unrival is a protocol for directing collective intelligence towards the accomplishment of arbitrary goals.
 
 * Specification
 This is a brief description of the Unrival Specification.  The full spec can be found in the whitepaper.
@@ -13,7 +13,7 @@ This is a brief description of the Unrival Specification.  The full spec can be 
 *** Promise
 *** Agent
 *** Goal
-A /goal/ is simply desirable outcomes that can be subscribed to by one or more agents.  Strictly speaking, goals are not a necessary part of the protocol.          
+A /goal/ is an outcome that can be subscribed to/desired by one or more agents.  Strictly speaking, goals are not a necessary part of the protocol - they simply act as psychological markers for motivating and organizing Unrival activities.
     
 *** Decision
 A /decision/ is a proposal to change the state of an agent.

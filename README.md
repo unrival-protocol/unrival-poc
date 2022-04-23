@@ -1,68 +1,68 @@
 
 # Table of Contents
 
--   [Introduction](#orgb08ad2a)
--   [Specification](#org3655a3d)
-    -   [Definitions](#org9655396)
-        -   [Promise](#orge1591ce)
-        -   [Agent](#orgde662ed)
-        -   [Goal](#org0c02c63)
-        -   [Decision](#orge6df6e6)
-    -   [Architecture](#org1b6ee1b)
-        -   [Layers](#org4f5020b)
-        -   [Networks](#orgb5f9d78)
--   [Setup](#org28f1bc5)
-    -   [Full Node](#orgb05c078)
-        -   [Step 1: set up commons layer](#orge79d89c)
-        -   [Step 2: set up governance layer](#org83eb802)
-        -   [Step 3: set up `unrival-cli`](#org9ce5300)
-    -   [Client](#org92724bd)
-        -   [Step 1: download](#orgf801ec8)
-        -   [Step 2: install](#org8b2f971)
-        -   [Step 3: connect to root](#orgcd516b3)
-        -   [Step 4: configure interpretation](#org4e3960b)
--   [User Stories](#org811738c)
-    -   [Create an Open Source TOE](#orge553a10)
+-   [Introduction](#org24d333c)
+-   [Specification](#orgb2a697a)
+    -   [Definitions](#org7a80b17)
+        -   [Promise](#orgf87c948)
+        -   [Agent](#org2d6d4b0)
+        -   [Goal](#org482d6e0)
+        -   [Decision](#org5fb4990)
+    -   [Architecture](#orgdf148a8)
+        -   [Layers](#org39285ab)
+        -   [Networks](#orgd948bc9)
+-   [Setup](#org9347f91)
+    -   [Full Node](#orgcfa2441)
+        -   [Step 1: set up commons layer](#org21df15b)
+        -   [Step 2: set up governance layer](#org7b3190b)
+        -   [Step 3: set up `unrival-cli`](#orgf613d1c)
+    -   [Client](#orged0af24)
+        -   [Step 1: download](#org4efae58)
+        -   [Step 2: install](#orga21dcaf)
+        -   [Step 3: connect to root](#orgb6d5ae5)
+        -   [Step 4: configure interpretation](#orgefeb0eb)
+-   [User Stories](#org4a0af77)
+    -   [Create an Open Source TOE](#org94cedd6)
 
 
 
-<a id="orgb08ad2a"></a>
+<a id="org24d333c"></a>
 
 # Introduction
 
 Unrival is a protocol for directing collective intelligence towards the accomplishing of arbitrary goals.
 
 
-<a id="org3655a3d"></a>
+<a id="orgb2a697a"></a>
 
 # Specification
 
 This is a brief description of the Unrival Specification.  The full spec can be found in the whitepaper.
 
 
-<a id="org9655396"></a>
+<a id="org7a80b17"></a>
 
 ## Definitions
 
 
-<a id="orge1591ce"></a>
+<a id="orgf87c948"></a>
 
 ### Promise
 
 
-<a id="orgde662ed"></a>
+<a id="org2d6d4b0"></a>
 
 ### Agent
 
 
-<a id="org0c02c63"></a>
+<a id="org482d6e0"></a>
 
 ### Goal
 
 A *goal* is simply desirable outcomes that can be subscribed to by one or more agents.  Strictly speaking, goals are not a necessary part of the protocol.          
 
 
-<a id="orge6df6e6"></a>
+<a id="org5fb4990"></a>
 
 ### Decision
 
@@ -75,12 +75,12 @@ A *decision* is a proposal to change the state of an agent.
 -   Meritocratic
 
 
-<a id="org1b6ee1b"></a>
+<a id="orgdf148a8"></a>
 
 ## Architecture
 
 
-<a id="org4f5020b"></a>
+<a id="org39285ab"></a>
 
 ### Layers
 
@@ -91,7 +91,7 @@ A *decision* is a proposal to change the state of an agent.
 -   Interpretation
 
 
-<a id="orgb5f9d78"></a>
+<a id="orgd948bc9"></a>
 
 ### Networks
 
@@ -102,17 +102,17 @@ A *decision* is a proposal to change the state of an agent.
 -   Merging
 
 
-<a id="org28f1bc5"></a>
+<a id="org9347f91"></a>
 
 # Setup
 
 
-<a id="orgb05c078"></a>
+<a id="orgcfa2441"></a>
 
 ## Full Node
 
 
-<a id="orge79d89c"></a>
+<a id="org21df15b"></a>
 
 ### Step 1: set up commons layer
 
@@ -121,7 +121,7 @@ A *decision* is a proposal to change the state of an agent.
 -   Dat
 
 
-<a id="org83eb802"></a>
+<a id="org7b3190b"></a>
 
 ### Step 2: set up governance layer
 
@@ -132,42 +132,42 @@ A *decision* is a proposal to change the state of an agent.
 -   Credit Commons Protocol
 
 
-<a id="org9ce5300"></a>
+<a id="orgf613d1c"></a>
 
 ### Step 3: set up `unrival-cli`
 
 
-<a id="org92724bd"></a>
+<a id="orged0af24"></a>
 
 ## Client
 
 
-<a id="orgf801ec8"></a>
+<a id="org4efae58"></a>
 
 ### Step 1: download
 
 
-<a id="org8b2f971"></a>
+<a id="orga21dcaf"></a>
 
 ### Step 2: install
 
 
-<a id="orgcd516b3"></a>
+<a id="orgb6d5ae5"></a>
 
 ### Step 3: connect to root
 
 
-<a id="org4e3960b"></a>
+<a id="orgefeb0eb"></a>
 
 ### Step 4: configure interpretation
 
 
-<a id="org811738c"></a>
+<a id="org4a0af77"></a>
 
 # User Stories
 
 
-<a id="orge553a10"></a>
+<a id="org94cedd6"></a>
 
 ## Create an Open Source TOE
 
