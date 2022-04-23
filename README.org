@@ -1,0 +1,49 @@
+#+TITLE: Readme
+
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+
+* Introduction
+Unrival is a protocol for directing collective intelligence towards the accomplishing of arbitrary goals.
+
+* Specification
+This is a brief description of the Unrival Specification.  The full spec can be found in the whitepaper.
+** Definitions
+
+*** Promise
+*** Agent
+*** Goal
+A /goal/ is simply desirable outcomes that can be subscribed to by one or more agents.  Strictly speaking, goals are not a necessary part of the protocol.          
+    
+*** Decision
+A /decision/ is a proposal to change the state of an agent.
+**** Consensus
+**** Democratic
+**** Meritocratic
+** Architecture
+*** Layers
+**** Commons
+**** Governance
+**** Interpretation
+*** Networks
+**** Root 
+**** Graph
+**** Merging
+* Setup
+** Full Node
+*** Step 1: set up commons layer
+**** IPFS
+**** Dat
+*** Step 2: set up governance layer
+**** Ethereum   
+**** Holochain
+**** Credit Commons Protocol
+*** Step 3: set up =unrival-cli=
+** Client
+*** Step 1: download
+*** Step 2: install
+*** Step 3: connect to root   
+*** Step 4: configure interpretation 
+* User Stories
+** Create an Open Source TOE
+    
